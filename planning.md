@@ -3,11 +3,12 @@ Page 1: Home
 div
 	Header: Bigote and Ruth's Website - h1
 div
-	Text 1: Intro - h4
+	Text 1: Intro - h2
 div
 	Image of Bigote and Ruth - img
 div
-	Text 2: Bigote and Ruth's Story h4
+	Header: Bigote and Ruth's Story - h3
+	Text 2: Bigote and Ruth's Story text - h4
 div
 	Header: Fun facts - h3
 	Text 3: Fun facts text - h4
