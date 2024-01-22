@@ -16,6 +16,7 @@ div
 Page 2: Subscribe
 	Navigation Bar up top - h3
 div
+	Header: Subscribe to get weekly updates - h1
 	Subscription form:
 		Name
 		Email
@@ -29,6 +30,8 @@ Page 3: Learn more
 	Navigation Bar up top - h3
 div
 	Header: Learn more about Cats - h1
+div
+	Text: ever wanted to learn more about cats? We compiled a list of helpful resources just for Bigote and Ruth fans - h3
 div
 	List: Sources to learn about cats - ul
 

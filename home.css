@@ -1,0 +1,107 @@
+.navigation-row {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    padding: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    margin: 0px;
+    color: #333;
+    background-color: #fff;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 2px 0;
+    margin: 0;
+    border-top: 2px solid #333; /* Adjust color and thickness to your preference */
+    border-bottom: 2px solid #333; /* Adjust color and thickness to your preference */
+}
+
+.main-header {
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    color: #333;
+    background-color: #fff;
+}
+
+.intro-box {
+
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid #000;
+    width: calc(100% - 400px);
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: justify;
+    color: #333;
+    background-color: #fff;
+    justify-content: space-evenly;
+    width: calc(100% - 400px); /
+    padding: 2px 0;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000;
+}
+
+.image-row {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+smallHeader {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-weight: light;
+    color: #333;
+    background-color: #fff;
+    display: inline-block;
+}
+
+bodyText {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-weight: light;
+    color: #333;
+    background-color: #fff;
+    display: inline-block;
+}
+
+textBody {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.text-box-row {
+    display: flex;
+    justify-content: space-evenly;
+    width: calc(100% - 400px); /
+    padding: 2px 0;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000;
+}
+
+.smallText {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    width: calc(100% - 210px);
+    padding-right: 10px;
+    text-align: right;
+}
